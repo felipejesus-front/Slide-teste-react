@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Slide-teste-react/static/css/main.e175773b.css",
+    "main.js": "/Slide-teste-react/static/js/main.10f391df.js",
+    "static/js/787.1db9f97d.chunk.js": "/Slide-teste-react/static/js/787.1db9f97d.chunk.js",
+    "index.html": "/Slide-teste-react/index.html",
+    "main.e175773b.css.map": "/Slide-teste-react/static/css/main.e175773b.css.map",
+    "main.10f391df.js.map": "/Slide-teste-react/static/js/main.10f391df.js.map",
+    "787.1db9f97d.chunk.js.map": "/Slide-teste-react/static/js/787.1db9f97d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e175773b.css",
+    "static/js/main.10f391df.js"
+  ]
+}
